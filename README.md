@@ -9,15 +9,20 @@ This app is based on the [Practice Build a Grid] Codelab.
 [Android Basics in Compose]: https://developer.android.com/courses/android-basics-compose/course
 [Practice Build a Grid]: https://developer.android.com/codelabs/basic-android-kotlin-compose-training-add-scrollable-list
 
-----
+---
 
 Environment
 
-- Kotlin 1.7.0
+- Kotlin 1.7.20
 - Android Studio Dolphin 2021.3.1
-- Compose 1.2.0
-- Gradle Plugin 7.3.0
+- Compose 1.3.1
+- Gradle Plugin 7.3.1
 
-----
+---
 
-updated: 2022-10-08
+```
+language: kotlin
+repo: coursescomposed
+status: archived
+updated: 2022-12-03
+```
