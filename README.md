@@ -22,7 +22,7 @@ Environment
 
 ```
 language: kotlin
-repo: coursescomposed
+repo: courses_composed
 status: archived
 updated: 2022-12-03
 ```
